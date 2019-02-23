@@ -4,7 +4,7 @@
 
 | Item           | GetMemberProps | GetMethodProps | GetFieldProps | GetPropertyProps | GetParamProps | GetEventProps |
 |----------------|----------------|----------------|---------------|------------------|---------------|---------------|
-| Class          | ✓  | ✓ | ✓ | ✓ | ✓ | ✓ |
+| ParentToken    | ✓  | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Name           |  ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | NameLength     |  ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Attributes     | ✓  | ✓ | ✓ | ✓ | ✓ | ✓ |
